@@ -1,2 +1,2 @@
-# resume
-Мое резюме frontend разработчика
+# resumeCancel changes
+Резюме frontend разработчика
