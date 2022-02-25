@@ -1,2 +1,2 @@
-# resumeCancel changes
+# resume
 Резюме frontend разработчика
